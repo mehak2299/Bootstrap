@@ -1,0 +1,23 @@
+.jumbotron{
+    background-color: salmon;
+    color:black;
+    margin: 0px auto;
+    padding:30px;
+}
+.row-content{
+    margin: 0px auto;
+    margin-left:0px;
+    border-bottom: 1px ridge;
+    min-height:250px;
+
+    padding-top:20px;
+    padding-bottom: 30px;
+}
+
+.content{
+    margin: 0px auto;
+    padding-top: 20px;
+}
+footer{
+    padding-top: 15px;
+}
